@@ -1,0 +1,4 @@
+Getting list of VMs
+Response code: 200
+jpoes149_AXELOCEAN_BATCH_CLONE  ef56c77b-355a-4df2-abd0-4c93c1aca7ae
+Response code: 200
